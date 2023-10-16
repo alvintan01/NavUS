@@ -993,7 +993,7 @@
         "Name": "COM 2",
         "Latitude": "1.294316",
         "Longitude": "103.773756",
-        "IsBusStop": "true"
+        "IsBusStop": "false"
     },
     "167": {
         "Name": "COM 3",
@@ -2796,7 +2796,7 @@
         "IsBusStop": "true"
     },
     "467": {
-        "Name": "PRINCE GEORGE PARK RESIDENCES (PGPR)",
+        "Name": "PRINCE GEORGE'S PARK FOYER (PGPF)",
         "Latitude": "1.291011",
         "Longitude": "103.780956",
         "IsBusStop": "true"

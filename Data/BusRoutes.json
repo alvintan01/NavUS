@@ -16,56 +16,51 @@
             "Direction": "-"
         },
         "4": {
-            "Name": "COM 2",
-            "Time": 2,
-            "Direction": "-"
-        },
-        "5": {
             "Name": "BIZ 2",
             "Time": 1,
             "Direction": "-"
         },
-        "6": {
+        "5": {
             "Name": "OPP TCOMS",
             "Time": 2,
             "Direction": "-"
         },
-        "7": {
+        "6": {
             "Name": "PRINCE GEORGE'S PARK (PGP)",
             "Time": 4,
             "Direction": "-"
         },
-        "8": {
+        "7": {
             "Name": "KENT RIDGE MRT (KR MRT)",
             "Time": 2,
             "Direction": "-"
         },
-        "9": {
+        "8": {
             "Name": "LT 27",
             "Time": 1,
             "Direction": "-"
         },
-        "10": {
+        "9": {
             "Name": "UNIVERSITY HALL (UHALL)",
             "Time": 1,
             "Direction": "-"
         },
-        "11": {
+        "10": {
             "Name": "OPP UNIVERSITY HEALTH CENTRE (OPP UHC)",
             "Time": 1,
             "Direction": "-"
         },
-        "12": {
+        "11": {
             "Name": "YUSOF ISHAK HOUSE (YIH)",
             "Time": 2,
             "Direction": "-"
         },
-        "13": {
+        "12": {
             "Name": "CENTRAL LIBRARY (CLB)",
             "Time": 2,
             "Direction": "-"
         },
-        "14": {
+        "13": {
             "Name": "KENT RIDGE BUS TERMINAL (KR BUS TERMINAL)",
             "Time": 0,
             "Direction": "-"
@@ -113,7 +108,7 @@
             "Direction": "-"
         },
         "9": {
-            "Name": "PRINCE GEORGE PARK RESIDENCES (PGPR)",
+            "Name": "PRINCE GEORGE'S PARK FOYER (PGPF)",
             "Time": 3,
             "Direction": "-"
         },
@@ -129,20 +124,15 @@
         },
         "12": {
             "Name": "OPP NUSS",
-            "Time": 2,
+            "Time": 1,
             "Direction": "-"
         },
         "13": {
-            "Name": "COM 2",
-            "Time": 2,
-            "Direction": "-"
-        },
-        "14": {
             "Name": "VENTUS (OPP LT13)",
             "Time": 2,
             "Direction": "-"
         },
-        "15": {
+        "14": {
             "Name": "KENT RIDGE BUS TERMINAL (KR BUS TERMINAL)",
             "Time": 0,
             "Direction": "-"
@@ -314,62 +304,82 @@
     },
     "D2": {
         "1": {
-            "Name": "PRINCE GEORGE'S PARK (PGP)",
-            "Time": 4,
+            "Name": "COM 3",
+            "Time": 2,
             "Direction": "-"
         },
         "2": {
-            "Name": "KENT RIDGE MRT (KR MRT)",
+            "Name": "OPP TCOMS",
             "Time": 2,
             "Direction": "-"
         },
         "3": {
+            "Name": "PRINCE GEORGE'S PARK (PGP)",
+            "Time": 4,
+            "Direction": "-"
+        },
+        "4": {
+            "Name": "KENT RIDGE MRT (KR MRT)",
+            "Time": 2,
+            "Direction": "-"
+        },
+        "5": {
             "Name": "LT 27",
             "Time": 1,
             "Direction": "-"
         },
-        "4": {
+        "6": {
             "Name": "UNIVERSITY HALL (UHALL)",
             "Time": 1,
             "Direction": "-"
         },
-        "5": {
+        "7": {
             "Name": "OPP UNIVERSITY HEALTH CENTRE (OPP UHC)",
             "Time": 2,
             "Direction": "-"
         },
-        "6": {
+        "8": {
             "Name": "MUSEUM",
             "Time": 1,
             "Direction": "-"
         },
-        "7": {
+        "9": {
             "Name": "UNIVERSITY TOWN (UTOWN)",
             "Time": 3,
             "Direction": "-"
         },
-        "8": {
+        "10": {
             "Name": "UNIVERSITY HEALTH CENTRE (UHC)",
             "Time": 1,
             "Direction": "-"
         },
-        "9": {
+        "11": {
             "Name": "OPP UNIVERSITY HALL (OPP UHALL)",
             "Time": 1,
             "Direction": "-"
         },
-        "10": {
+        "12": {
             "Name": "S 17",
             "Time": 3,
             "Direction": "-"
         },
-        "11": {
+        "13": {
             "Name": "OPP KENT RIDGE MRT (OPP KR MRT)",
             "Time": 5,
             "Direction": "-"
         },
-        "12": {
-            "Name": "PRINCE GEORGE PARK RESIDENCES (PGPR)",
+        "14": {
+            "Name": "PRINCE GEORGE'S PARK FOYER (PGPF)",
+            "Time": 3,
+            "Direction": "-"
+        },
+        "15": {
+            "Name": "TCOMS",
+            "Time": 2,
+            "Direction": "-"
+        },
+        "16": {
+            "Name": "COM 3",
             "Time": 0,
             "Direction": "-"
         }
@@ -493,7 +503,7 @@
             "Direction": "-"
         },
         "16": {
-            "Name": "PRINCE GEORGE PARK RESIDENCES (PGPR)",
+            "Name": "PRINCE GEORGE'S PARK FOYER (PGPF)",
             "Time": 0,
             "Direction": "-"
         }
